@@ -65,3 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact us at [contact@example.com](mailto:contact@example.com).
+
+<p align="right">
+<a href="https://github.com/iamAntimPal/Interview">Next Page</a>
+</p>
