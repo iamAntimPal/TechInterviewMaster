@@ -16,12 +16,12 @@ This Python program demonstrates simple arithmetic operations such as addition a
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/iamAntimPal/TechInterviewMaster.git
    ```
 
 2. Navigate to the directory containing the program:
    ```bash
-   cd <directory_name>
+   cd TechInterviewMaster
    ```
 
 3. Run the program:
