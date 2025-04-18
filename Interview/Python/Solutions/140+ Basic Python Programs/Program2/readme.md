@@ -57,5 +57,5 @@ The division of 10 and 5 is 2.0
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 <p align="right">
-<a href="./../Program2/readme.md">Next Program</a>
+<a href="./../Program3/readme.md">Next Program</a>
 </p>
