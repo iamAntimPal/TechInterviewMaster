@@ -42,9 +42,7 @@ The sum of 10 and 5 is 15
 The division of 10 and 5 is 2.0
 ```
 
-## License
 
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Authors
 
@@ -58,10 +56,6 @@ This program is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact us at [contact@example.com](mailto:contact@example.com).
+<p align="right">
+<a href="./../Program2/readme.md">Next Program</a>
+</p>
