@@ -53,6 +53,7 @@ This program is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [Acknowledgments](acknowledgments.md)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
