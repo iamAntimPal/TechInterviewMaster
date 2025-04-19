@@ -10,3 +10,4 @@ elif num == 0:
     print("The number is Zero.")
 else:
     print("The number is Negative.")
+    
