@@ -66,4 +66,18 @@ Welcome! Use this sidebar to quickly navigate and explore all the resources in T
 
 ---
 
+## 👣 Stay Connected & Give Feedback
+
+- [💡 Suggest Features or Report Bugs](https://github.com/iamAntimPal/TechInterviewMaster/issues)
+- [📬 Contact Maintainer](https://github.com/iamAntimPal)
+- [🌐 Join Our Community Chat](https://discord.gg/your-invite-link)
+
+---
+
+✨ **Thank you for being part of TechInterviewMaster!**
+
+> _Keep learning, keep growing, and help others along the way!_
+
+Made with ❤️ by the community. Your feedback makes us better!
+
 Happy exploring! 🚀
