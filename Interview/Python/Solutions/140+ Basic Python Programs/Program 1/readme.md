@@ -108,5 +108,5 @@ This is a beginner-friendly project ideal for Python learners. Contributions and
 Happy Coding! 🎉
 
 <p align="right">
-<a href="./../Program2/readme.md">Next Program</a>
+<a href="../Program 2/readme.md">Next Program</a>
 </p>
