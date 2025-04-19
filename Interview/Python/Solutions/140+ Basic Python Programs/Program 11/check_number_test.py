@@ -19,3 +19,5 @@ def test_check_number():
 num = int(input("Enter a number: "))
 print(check_number(num))
 test_check_number()
+Print("All test cases passed!")
+# The function check_number takes an integer as input and returns a string indicating whether the number is positive, negative, or zero.
