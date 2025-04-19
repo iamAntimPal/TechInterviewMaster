@@ -13,13 +13,17 @@ jobs:
       with:
         script: |
           const pr = context.payload.pull_request;
-          const user = pr.user.login;
-          const greetingMessage = `Hello @${user}, thank you for your pull request! 🎉`;
-          const issueComment = {
-            body: greetingMessage
-          };
-          await github.rest.issues.createComment({
-            ...context.repo,
-            issue_number: pr.number,
-            ...issueComment
-          });
+          if (pr.head.repo.fork) {
+            console.log("Skipping greeting for forked pull request.");
+          } else {
+            const user = pr.user.login;
+            const greetingMessage = `Hello @${user}, thank you for your pull request! 🎉`;
+            const issueComment = {
+              body: greetingMessage
+            };
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: pr.number,
+              ...issueComment
+            });
+          }
