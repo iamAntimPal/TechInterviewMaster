@@ -25,6 +25,19 @@ else:
     print(f"{num} is an Odd number.")
 ```
 
+```python
+# Python program to check if the number is odd or even
+# using Funtion
+def odd_even_checker(a):
+     if a % 2 == 0:
+          return "This number is Even number"
+     else:
+          return "This number is odd number"
+
+a = int(input("Enter a number: "))
+print(odd_even_checker(a))
+```
+
 ---
 
 ## ▶️ Example Runs
@@ -56,6 +69,7 @@ Enter a number: 7
 ```
 odd_even_checker/
 ├── odd_even_checker.py
+├── odd_even_checker_function.py
 └── README.md
 ```
 
