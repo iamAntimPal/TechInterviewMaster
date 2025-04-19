@@ -15,29 +15,28 @@
 # The space complexity of the Sieve of Eratosthenes is O(n), which makes it very space-efficient for finding prime numbers in a given interval.
 # The program takes two inputs, start and end, which define the interval in which we want to find prime numbers.
 
-# Prime number function from 1 to 10 prime numbers
+# Prime number function from 1 to 10 prime numbers using class method
+class PrimeNumbers:
+     def __init__(self, start, end):
+          self.start = start
+          self.end = end
+     
+     def is_prime(self, n):
+          if n <= 1:
+               return False
+          for i in range(2, int(n**0.5) + 1):
+               if n % i == 0:
+                    return False
+          return True
+     
+     def get_primes(self):
+          primes = []
+          for num in range(self.start, self.end + 1):
+               if self.is_prime(num):
+                    primes.append(num)
+          return primes
 
-def prime_in_interval(start, end):
-     # Create a boolean array to store the prime numbers
-     prime = [True for i in range(end + 1)]
-      p = 2
-      while (p * p <= end):
-          # If prime[p] is not changed, then it is a prime
-          if (prime[p] == True):
-              # Update all multiples of p
-              for i in range(p * 2, end + 1, p):
-                  prime[i] = False
-          p += 1
-      # Print all prime numbers in the given interval
-      prime_numbers = []
-      for p in range(start, end + 1):
-          if prime[p]:
-              prime_numbers.append(p)
-      return prime_numbers
-
-# Driver code
-if __name__ == '__main__':
-    start = 10
-    end = 50
-    prime_numbers = prime_in_interval(start, end)
-    print(prime_numbers)
+start = int(input("Enter First number of the interval: "))
+end = int(input("Enter Last number of the interval: "))
+prime_numbers = PrimeNumbers(start, end)
+print(prime_numbers.get_primes())  # Output: [11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, ...,num]
