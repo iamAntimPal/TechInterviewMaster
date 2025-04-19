@@ -19,7 +19,7 @@ A comprehensive, community-driven hub for technical interview Q&A! 🎯 Python �
 - [Roadmap](#roadmap)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [Support](#support)
+- [Support](#support )
 
 ## About
 
@@ -39,21 +39,6 @@ TechInterviewMaster is a collaborative platform designed to help you prepare for
 ## Contributing
 
 We encourage you to contribute to TechInterviewMaster by adding new questions, resources, and solutions. Please follow the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines for contributing.
-
-## Support <a href="#support"><img src="https://img.icons8.com/color/48/000000/help--v1.png" width="28" style="vertical-align:middle;" alt="Support Icon"></a>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Support Animation">
-</div>
-
-> 💬 **Need help or want to connect?**
->
-> - Open an [issue](https://github.com/iamAntimPal/TechInterviewMaster/issues) for questions, suggestions, or bug reports.
-> - Start a [discussion](https://github.com/iamAntimPal/TechInterviewMaster/discussions) to share ideas or get advice.
-> - Reach out to the maintainer via [email](mailto:antimpal113@gmail.com).
-> - [Join our community](https://github.com/Optimism-Educators) and help each other grow! 🚀
-
-Let's build and learn together! 🌟
 
 ## Roadmap
 
@@ -82,8 +67,18 @@ Let's build and learn together! 🌟
 
 We welcome contributions! Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) and open an issue or pull request. All types of contributions are appreciated, from fixing typos to adding new questions or solutions.
 
-## Support
+## Support 
 
-If you have questions, suggestions, or need help, open an issue or start a discussion. You can also reach out via GitHub discussions or email the maintainer.
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Support Animation">
+</div>
 
----
+> 💬 **Need help or want to connect?**
+>
+> - Open an [issue](https://github.com/iamAntimPal/TechInterviewMaster/issues) for questions, suggestions, or bug reports.
+> - Start a [discussion](https://github.com/iamAntimPal/TechInterviewMaster/discussions) to share ideas or get advice.
+> - Reach out to the maintainer via [email](mailto:antimpal113@gmail.com).
+> - [Join our community](https://github.com/Optimism-Educators) and help each other grow! 🚀
+
+## Let's build and learn together! 🌟
+
