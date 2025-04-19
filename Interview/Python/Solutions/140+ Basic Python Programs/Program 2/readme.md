@@ -16,12 +16,12 @@ This Python program demonstrates simple arithmetic operations such as addition a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iamAntimPal/TechInterviewMaster.git
+
    ```
 
 2. Navigate to the directory containing the program:
    ```bash
-   cd TechInterviewMaster
+
    ```
 
 3. Run the program:
@@ -55,5 +55,3 @@ The division of 10 and 5 is 2.0
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-
