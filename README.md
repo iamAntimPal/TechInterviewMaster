@@ -66,6 +66,8 @@ We encourage you to contribute to TechInterviewMaster by adding new questions, r
 ## Contributing
 
 We welcome contributions! Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) and open an issue or pull request. All types of contributions are appreciated, from fixing typos to adding new questions or solutions.
+## File Structure
+
 
 ## Support 
 

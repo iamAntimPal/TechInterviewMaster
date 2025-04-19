@@ -58,6 +58,54 @@ Thank you for your interest in contributing! 🚀 Your help makes this project b
 
 Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community welcoming and inclusive.
 
+## Python Contribution Guidelines
+
+### File Structure for Python Contributions
+
+```
+Interview/
+└── Python/
+    ├── PDF Files/
+    │   └── [PDF resources, e.g., guides, question banks]
+    ├── Solutions/
+    │   ├── 140+ Basic Python Programs/
+    │   │   ├── 140+ Basic Python Programs.ipynb
+    │   │   └── Program [number]/
+    │   ├── Program/
+    │   └── Top 100+ Advanced Python Questions/
+    └── [Other topic folders as needed]
+```
+
+### Rules for Python Contributions
+
+1. **File Placement**:
+   - Add new Python questions to the appropriate folder (e.g., `Solutions/140+ Basic Python Programs/Program [number]/`).
+   - Place solutions as Jupyter notebooks (`.ipynb`) or Python scripts (`.py`) in the relevant folder.
+   - Add new resources (e.g., PDFs, guides) to the `PDF Files/` folder.
+
+2. **File Naming**:
+   - Use clear and descriptive names for files and folders.
+   - Follow the existing naming conventions in the repository.
+
+3. **Code Style**:
+   - Adhere to [PEP8](https://peps.python.org/pep-0008/) guidelines for Python code.
+   - Add comments and explanations to your code for clarity.
+
+4. **Documentation**:
+   - Update or create a `README.md` in the folder if you add a new topic or section.
+
+5. **Respect Existing Content**:
+   - Do not overwrite or delete existing content without prior discussion.
+
+6. **Testing**:
+   - Ensure your code is tested and works as expected before submitting.
+
+7. **Pull Request Requirements**:
+   - Clearly describe your changes in the pull request.
+   - Reference the issue number if applicable.
+
+By following these guidelines, you help maintain the quality and organization of the repository. Thank you for contributing!
+
 ## 🙋 Need Help?
 
 If you have questions, open an issue or start a discussion. We’re here to help!
