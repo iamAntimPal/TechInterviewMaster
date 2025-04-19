@@ -1,48 +1,42 @@
-# 📐 Triangle Area Calculator (Python)
+# 🔁 Swap Two Variables Without Temp (Python)
 
-This simple Python program calculates the **area of a triangle** using the basic mathematical formula.
+This Python program demonstrates how to **swap two variables without using a temporary variable**.
 
 ---
 
 ## 📌 Problem Statement
 
-**Write a Python program to find the area of a triangle.**
+**Write a Python program to swap two variables without using a temporary variable.**
 
 ---
 
-## 🧮 Formula Used
+## 💡 Concept
 
-To find the area of a triangle when the base and height are known:
-
-```
-Area = (1/2) × base × height
-```
-
----
-
-## 🧑‍💻 Program Overview
-
-The program:
-- Prompts the user to enter the **base** and **height** of a triangle.
-- Calculates the area using the formula.
-- Displays the result with proper formatting.
-
----
-
-## 🧾 Sample Code
+Python allows variable swapping directly using tuple unpacking:
 
 ```python
-# Python program to find the area of a triangle
+a, b = b, a
+```
+
+This eliminates the need for a temporary variable.
+
+---
+
+## ✅ Sample Code
+
+```python
+# Python program to swap two variables without using a temporary variable
 
 # Input from user
-base = float(input("Enter the base of the triangle: "))
-height = float(input("Enter the height of the triangle: "))
+a = int(input("Enter value of a: "))
+b = int(input("Enter value of b: "))
 
-# Calculate area
-area = 0.5 * base * height
+print(f"Before swapping: a = {a}, b = {b}")
 
-# Display result
-print("The area of the triangle is:", area)
+# Swapping without temp variable
+a, b = b, a
+
+print(f"After swapping: a = {a}, b = {b}")
 ```
 
 ---
@@ -50,39 +44,40 @@ print("The area of the triangle is:", area)
 ## ▶️ Example Run
 
 ```bash
-Enter the base of the triangle: 10
-Enter the height of the triangle: 5
-The area of the triangle is: 25.0
+Enter value of a: 5
+Enter value of b: 10
+Before swapping: a = 5, b = 10
+After swapping: a = 10, b = 5
 ```
 
 ---
 
-## 📦 How to Run
+## 🚀 How to Run
 
-1. Save the code in a file named, for example, `triangle_area.py`
-2. Run the program in a terminal:
+1. Save the code in a file named `swap_variables.py`
+2. Run the script:
    ```bash
-   python triangle_area.py
+   python swap_variables.py
    ```
-
----
-
-## 💡 Enhancements You Can Try
-
-- Add input validation (e.g., prevent negative or zero values).
-- Create a function to calculate the area.
-- Add support for Heron’s formula (when all 3 sides are known).
 
 ---
 
 ## 📁 Suggested Project Structure
 
 ```
-triangle_area/
-├── triangle_area.py
+swap_variables/
+├── swap_variables.py
 └── README.md
 ```
 
 ---
 
-Happy Coding! 🎯
+## 💡 You Can Try
+
+- Implement swapping using arithmetic operations (without tuple unpacking).
+- Extend to swap values in a list or dictionary.
+- Add type checking for inputs.
+
+---
+
+Happy Coding! 🔄🧠
