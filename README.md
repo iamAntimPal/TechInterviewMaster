@@ -50,8 +50,8 @@ We encourage you to contribute to TechInterviewMaster by adding new questions, r
 >
 > - Open an [issue](https://github.com/iamAntimPal/TechInterviewMaster/issues) for questions, suggestions, or bug reports.
 > - Start a [discussion](https://github.com/iamAntimPal/TechInterviewMaster/discussions) to share ideas or get advice.
-> - Reach out to the maintainer via [email](mailto:your-email@example.com).
-> - Join our community and help each other grow! 🚀
+> - Reach out to the maintainer via [email](mailto:antimpal113@gmail.com).
+> - [Join our community](https://github.com/Optimism-Educators) and help each other grow! 🚀
 
 Let's build and learn together! 🌟
 
