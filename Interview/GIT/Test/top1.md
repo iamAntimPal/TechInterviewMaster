@@ -143,31 +143,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
-
-<!-- <h1> <img src="https://github.com/iamAntimPal/iamAntimPal/blob/master/output/github-snake.svg" width="25" height="25"> My Github Stats:</h1> -->
-<!-- <p align="center" >
-<a href="https://github.com/iamAntimPal">
-<img height=259 width=auto src="https://github-readme-stats.gitlab.io/api/pin/?username=iamAntimPal&repo=iamAntimPal&theme=dark" alt="Antim Pal's Github stats" />
-</a><img height="auto" alt="top icon" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAntimPal&layout=compact&text_color=daf7dc&bg_color=151515"/><img height="200" src="https://nirzak-streak-stats.vercel.app/?user=sanjay-kv&theme=dark" />
-
-<!-- this try to git stats-->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjay-kv&theme=radical" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felixonmars&theme=radical" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felixonmars&theme=radical&utcOffset=8" />
-
-
-<!-- <img  height="200" src="https://github-contributor-stats.vercel.app/api?username=iamAntimPal&limit=5&theme=dark&combine_all_yearly_contributions=true"/>  -->
-
-</p>
-<a href="https://github.com/iamAntimPal/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs"></a>
-
-## Top Repositories
- 
- 
- <a href="https://github.com/iamAntimPal">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamAntimPal&repo=iamAntimPal&theme=dark" />
- </a>
-//...
