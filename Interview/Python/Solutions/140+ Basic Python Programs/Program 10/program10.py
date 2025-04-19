@@ -1,8 +1,10 @@
-a = float(input("Enter the first number (a): "))
-b = float(input("Enter the second number (b): "))
-# Swapping without a temporary variable
-a, b = b, a
+#using Function
+def swap(a,b):
+    temp=a
+    a=b
+    b=temp
+    return a,b
+a,b=swap(a,b)
 print("After swapping:")
 print("a =", a)
 print("b =", b)
-# Swapping using a temporary variable
