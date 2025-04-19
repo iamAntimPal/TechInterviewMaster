@@ -19,6 +19,7 @@ Fixes #(issue)
 - [ ] New feature
 - [ ] Documentation update
 - [ ] Refactoring
+- [ ] Interview Question
 - [ ] Other (describe):
 
 ## ✅ Checklist
