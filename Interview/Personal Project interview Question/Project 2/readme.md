@@ -67,3 +67,4 @@ Analyzed customer transaction data from an e-commerce platform to uncover purcha
 - **GitHub Repo**: Share cleaned datasets, Jupyter Notebooks, and dashboard snapshots.  
 - **Metrics**: Quantify results (e.g., "% increase in engagement," "X% higher click-through rate").  
 - **Domain Knowledge**: Mention how insights align with business goals (e.g., reducing churn, upselling).
+---
