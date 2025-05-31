@@ -22,6 +22,14 @@ class PrimeNumbers:
           self.end = end
      
      def is_prime(self, n):
+          """_summary_
+
+          Args:
+              n (_type_): _description_
+
+          Returns:
+              _type_: _description_
+          """
           if n <= 1:
                return False
           for i in range(2, int(n**0.5) + 1):
@@ -30,6 +38,11 @@ class PrimeNumbers:
           return True
      
      def get_primes(self):
+          """_summary_
+
+          Returns:
+              _type_: _description_
+          """
           primes = []
           for num in range(self.start, self.end + 1):
                if self.is_prime(num):
